@@ -6,12 +6,17 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 AI DSA Coach is a next-generation learning platform that combines a LeetCode-like coding environment with a multi-agent AI mentor system. It dynamically adapts to your skill level (Beginner to Advanced), gently guides you through your thought process, evaluates your code, and rewards your learning with verifiable on-chain tokens and NFTs!
+
+> **🌐 Live Demo:** [https://ai-dsa-coach-theta.vercel.app/](https://ai-dsa-coach-theta.vercel.app/)
 
 ## 📋 Overview
 
 AI DSA Coach is a next-generation learning platform that combines a LeetCode-like coding environment with a multi-agent AI mentor system. It dynamically adapts to your skill level (Beginner to Advanced), gently guides you through your thought process, evaluates your code, and rewards your learning with verifiable on-chain tokens and NFTs!
+
+The platform is **not just a LeetCode clone** — it's a full AI coaching experience. The Mentor guides your thinking, the Code Agent reviews your solution, and the Evaluation Agent tracks your growth.
 
 ## 👨‍💻 About the Creator
 
@@ -41,9 +46,12 @@ This project fully integrates with the **0G Galileo Testnet** to reward users wi
 ## 🚀 Key Features
 
 - 🗣️ **Mentor Agent**: Fosters critical thinking by evaluating your approach before you write code. Provides hints based on your skill level without giving away the answer.
-- 💻 **Code Agent**: Runs and evaluates your code for correctness, edge cases, and time/space complexity optimality.
-- 📈 **Evaluation Agent**: Generates a comprehensive summary of your performance, tracks hint usage, and updates your progression.
+- 💻 **Code Agent**: Reviews your code for correctness, bugs, edge cases, and time/space complexity. Provides an inline AI coding assistant.
+- 📈 **Evaluation Agent**: Generates a detailed performance report with scores, complexity analysis, strengths, weaknesses, and next steps.
+- 🎮 **Orchestrator Agent**: Manages the flow between all agents, tracks your session, and ensures smooth transitions through each phase.
 - 💰 **Web3 Rewards**: Connect your wallet to earn $DSA tokens for solving problems and mint unique NFT badges for your achievements!
+- 🧩 **Multi-language Support**: Write solutions in Python, Java, C++, and JavaScript.
+- 🎨 **VS Code-Quality Editor**: Monaco editor with syntax highlighting.
 
 ## 🛠️ Quick Start
 
