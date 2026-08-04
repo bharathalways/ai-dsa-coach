@@ -1,120 +1,61 @@
-<div align="center">
+# 🧠 AI DSA Coach
+### Your intelligent, on-chain companion for mastering Data Structures & Algorithms.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bharath;Android+Dev+%7C+Full+Stack+%7C+ML+Engineer;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+[![0G Network](https://img.shields.io/badge/0G_Network-Galileo_Testnet-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cGF0aCBkPSJNMjAgM0wzIDMzbDE3LTEwIDE3IDEweiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIuMSIvPjxwYXRoIGQ9Ik0yMCAzTDMgMzNsMTctMTAgMTcgMTB6IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjUiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=)](LINK_TO_0G_NETWORK)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-<br/>
+AI DSA Coach is a next-generation learning platform that combines a LeetCode-like coding environment with a multi-agent AI mentor system. It dynamically adapts to your skill level (Beginner to Advanced), gently guides you through your thought process, evaluates your code, and rewards your learning with verifiable on-chain tokens and NFTs!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharathbanoth2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathbanoth2003)
-[![GitHub](https://img.shields.io/badge/GitHub-bharathalways-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharathalways)
-[![Instagram](https://img.shields.io/badge/Instagram-bharath__always-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bharath__always/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathbanoth.career@gmail.com)
+## 📋 Overview
 
-</div>
+AI DSA Coach is a next-generation learning platform that combines a LeetCode-like coding environment with a multi-agent AI mentor system. It dynamically adapts to your skill level (Beginner to Advanced), gently guides you through your thought process, evaluates your code, and rewards your learning with verifiable on-chain tokens and NFTs!
 
----
+## 👨‍💻 About the Creator
 
-## 👨‍💻 About Me
-
-I'm **Banoth Bharath**, a Computer Science undergrad at **Lovely Professional University** building at the intersection of **Android**, **Full Stack Web**, and **Machine Learning**.
+This project is built and maintained by **Banoth Bharath**, a Computer Science undergrad at Lovely Professional University. I'm passionate about building at the intersection of **Android Development**, **Full Stack Web**, and **Machine Learning**.
 
 - 📱 Native Android apps with **Kotlin + Jetpack Compose**
 - 🌐 Full stack web platforms with **React + Python backends**
 - 🤖 ML models and AI pipelines for real-world problems
 - 🏆 **Top 1.5%** — Young Turks Skill Assessment (98.49 Percentile)
-- 👥 My Naukri automation tool adopted by **200+ users**
+- 👥 Naukri automation tool adopted by **200+ users**
 - 📍 Suryapet, Telangana, India
 
----
+## 🌐 0G Network Integration
 
-## 🚀 Featured Projects
+This project fully integrates with the **0G Galileo Testnet** to reward users with verifiable on-chain assets upon completing DSA challenges!
 
-### 🤖 Real-Time Crowd Monitoring System *(AI/ML)*
-> Python · YOLO · OpenCV · Streamlit · Jan 2026 – Apr 2026
+### 🏆 Verified Smart Contracts
 
-AI-powered surveillance detecting overcrowding and unsafe movement patterns in real time with live dashboard analytics and automated alerts.
+- **DSA Token Contract:** `0xb31AcDfaAac74731e655c96A90EB910dD827bFFB`
+- **DSA Badge NFT Contract:** `0xB253e155c3fe23772fB6254A4CAb3cF6BcA78366`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/bharathalways)
+### ⛓️ On-Chain Proofs
 
----
+- **Demo Wallet:** `0xFCF1cdaB5269342B0b5447E3A5b8fa56c6B7B152`
+- **NFT Minting Proof:** [View Transaction on 0G Explorer](https://explorer.0g.ai/tx/YOUR_TX_HASH)
 
-### 📱 Full-Stack E-Commerce App *(Android)*
-> Kotlin · Firebase · Jetpack Compose · Oct – Dec 2025
+## 🚀 Key Features
 
-Scalable Android e-commerce with auth, product browsing, cart management, and Firestore real-time sync.
+- 🗣️ **Mentor Agent**: Fosters critical thinking by evaluating your approach before you write code. Provides hints based on your skill level without giving away the answer.
+- 💻 **Code Agent**: Runs and evaluates your code for correctness, edge cases, and time/space complexity optimality.
+- 📈 **Evaluation Agent**: Generates a comprehensive summary of your performance, tracks hint usage, and updates your progression.
+- 💰 **Web3 Rewards**: Connect your wallet to earn $DSA tokens for solving problems and mint unique NFT badges for your achievements!
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/bharathalways/ecommerce)
+## 🛠️ Quick Start
 
----
+### 📦 Installation
 
-### 🌐 ML-Based Vehicle Load Monitoring System *(ML + Web)*
-> Python · Scikit-learn · K-Means · React · Leaflet
+```bash
+git clone https://github.com/bharathalways/ai-dsa-coach.git
+cd ai-dsa-coach
 
-K-Means clustering for streetlight energy optimization with interactive React + Leaflet dashboard — ~30% improvement in energy insights.
+# Install Backend / Streamlit dependencies
+pip install -r requirements.txt
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/bharathalways)
-
----
-
-### 🔍 Naukri Job Application Automation *(Python Tool)*
-> Python · Selenium · Web Automation · Jul 2025
-
-Automated job applications — reduced manual effort by **80%**, adopted by **200+ users**.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/bharathalways)
-
----
-
-## 🛠️ Tech Stack
-
-**Mobile**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**ML Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
----
-
-## 🏅 Achievements & Certifications
-
-- 🥇 **Young Turks Skill Assessment** — 98.49 Percentile (Top 1.5%)
-- 👥 **Naukri Automation Tool** — Adopted by 200+ users
-- 📜 **Full Stack Web Development** — FreeCodeCamp · Jan 2024
-- 📜 **DBMS & AI Professional** — Oracle University · Oct 2025
-- ☁️ **Cloud Computing** — NPTEL · Jun 2025
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathalways&show_icons=true&theme=default&hide_border=true&title_color=22c55e&icon_color=22c55e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathalways&layout=compact&hide_border=true&title_color=22c55e&theme=default)
-
-</div>
-
----
-
-<div align="center">
-  <i>Open to internships, collaborations, and exciting projects. Let's build something great!</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=bharathalways&color=22c55e&style=flat-square" alt="Profile Views"/>
-</div>
+# Install Frontend dependencies (Next.js)
+cd frontend
+npm install
